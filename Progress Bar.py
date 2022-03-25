@@ -15,3 +15,4 @@ bar.grid(padx=50,pady=10)
 bt=Button(window,text='Progress',command=step).grid(padx=50,pady=10)
 
 window.mainloop()
+#End of code.
